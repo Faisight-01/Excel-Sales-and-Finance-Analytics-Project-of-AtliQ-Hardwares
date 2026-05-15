@@ -1,3 +1,4 @@
+# Excel-Sales-and-Finance-Analytics-Project-of-AtliQ-Hardwares
 # Project Description
 <img width="1632" height="1350" alt="Img1" src="https://github.com/user-attachments/assets/7ff07458-922e-4069-ac9f-ee76ca7cd3a6" />
 <img width="1628" height="764" alt="Img2" src="https://github.com/user-attachments/assets/816f0c01-ee73-43b2-9a02-95e3dd3ce4c2" />
